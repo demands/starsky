@@ -1,5 +1,5 @@
 {
-  "name": "starsky",
+  "name": "starzky",
   "version": "0.3.1",
   "description": "A higher level and opinionated library on top of node-amqp.",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "rabbitmq",
     "node-amqp"
   ],
-  "author": "Recurly",
+  "author": "Recurly, with some edits by @demands",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/recurly/starsky/issues"
